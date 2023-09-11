@@ -1,0 +1,34 @@
+button{
+    border-radius: 10px;
+    background-color: gray;
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+ul > li {
+    list-style-type: none;
+    display: flex;
+    padding: 20px;
+    margin-top: 15px;
+    border: 0.5px solid rgb(203, 203, 203);
+    border-radius: 15px;
+    box-shadow: rgba(0,0,0,0.16) 0px 1px 4px;
+}
+
+li > p {
+    margin-right: auto;
+}
+
+.male{
+    box-shadow: rgba(1, 246, 165, 0.5) 0px 1px 4px;
+}
+.female{
+    box-shadow: rgba(245, 92, 2, 0.5) 0px 1px 4px;
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.custom-button-hide{
+  display: flex;
+}
+.custom-button-hide h1{
+  margin-right: auto;
+}
+.custom-button-hide button{
+  padding: 0px 20px 0px 20px;
+  background-color: gray;
+}
